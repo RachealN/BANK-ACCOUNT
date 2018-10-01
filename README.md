@@ -1,5 +1,5 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/0a7c4068c790a1e85ed8/maintainability)](https://codeclimate.com/github/RachealN/BankAccount/maintainability)
 [![Build Status](https://travis-ci.org/RachealN/BANK-ACCOUNT.svg?branch=master)](https://travis-ci.org/RachealN/BANK-ACCOUNT)
-[![Coverage Status](https://coveralls.io/repos/github/RachealN/BankAccount/badge.svg?branch=master)](https://coveralls.io/github/RachealN/BankAccount?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/RachealN/BANK-ACCOUNT/badge.svg?branch=master)](https://coveralls.io/github/RachealN/BANK-ACCOUNT?branch=master)
 
 # A program that stimulates a bank account supporting opening/closing, withdraws, deposits money on the account. it ignores the possibility of concurrent transactions and operations against a closed account fails.

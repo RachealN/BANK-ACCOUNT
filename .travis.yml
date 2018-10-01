@@ -10,7 +10,7 @@ install:
 script:
     - py.test --cov=account
 
-after_script:
+after_success:
     - coveralls
 
 
